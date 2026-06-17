@@ -1,0 +1,96 @@
+Python
+SQL
+Excel
+Machine Learning
+Deep Learning
+Data Visualization
+Statistics
+Power BI
+HTML
+CSS
+JavaScript
+React
+NodeJS
+Django
+REST API
+Linux
+Docker
+Kubernetes
+AWS
+TensorFlow
+PyTorch
+Scikit-Learn
+Pandas
+Hadoop
+Spark
+ETL
+CI/CD
+Embedded C
+Microcontrollers
+Arduino
+Raspberry Pi
+Verilog
+VHDL
+ASIC Design
+Cadence
+Digital Communication
+Signal Processing
+MATLAB
+IoT
+Power Systems
+Electrical Machines
+Control Systems
+Thermal Engineering
+Boilers
+Power Generation
+AutoCAD Electrical
+Panel Design
+AutoCAD
+SolidWorks
+CATIA
+Engineering Drawing
+Manufacturing Processes
+Quality Control
+Lean Manufacturing
+Thermodynamics
+Heat Transfer
+Fluid Mechanics
+Automotive Systems
+Engine Design
+Vehicle Dynamics
+Construction Management
+STAAD Pro
+ETABS
+Soil Mechanics
+Foundation Engineering
+Environmental Studies
+Water Treatment
+Mine Planning
+Rock Mechanics
+Drilling & Blasting
+Surface Mining
+Surpac
+Geological Mapping
+Reserve Estimation
+Drilling Techniques
+Explosives Handling
+Blast Design
+Mine Safety
+Risk Assessment
+Mining Laws
+Chemical Reaction Engineering
+Process Design
+Aspen Plus
+Reservoir Engineering
+Drilling Engineering
+Quality Testing
+Process Control
+Industrial Safety
+Farm Machinery
+Irrigation Systems
+Soil Science
+Molecular Biology
+Bioprocess Engineering
+Microbiology
+Food Processing
+Food Safety
