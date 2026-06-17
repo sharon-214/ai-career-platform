@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.ensemble import RandomForestRegressor
 
 # ---------- Load Dataset ----------
-df = pd.read_csv("dataset/placement_dataset.csv")
+df = pd.read_csv("placement_dataset.csv")
 
 # Features and target
 X = df.drop("placement", axis=1)  # input columns
